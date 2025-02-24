@@ -2,6 +2,11 @@ body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
+
+.text-center {
+    background-color: #6eacd4;
+}
+
 .navbar-dark {
     background-color: #512DA8;
 }
